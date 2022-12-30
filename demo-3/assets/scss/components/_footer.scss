@@ -1,0 +1,21 @@
+/** Start Contact Section **/
+footer {
+  padding: 5px 0;
+  background: $dark-mode-bg-color;
+}
+.ms-footer-detail {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .ms-copy {
+    color: $white;
+    font-size: 14px;
+    letter-spacing: .02rem;
+    a {
+      color: $main-primary-color-1;
+    }
+  }
+}
+/** End Contact Section **/
+
